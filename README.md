@@ -2,6 +2,7 @@
 description: A reward system to stimulate stake pools and community adoption
 ---
 
+# Introduction
 
 **Introduction**
 

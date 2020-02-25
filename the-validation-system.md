@@ -21,9 +21,7 @@ The distribution favors large Nordic Energy \(NET\) token deposits, as the likel
 
 This is accordingly illustrated by the following image at a sidechain assuming transaction costs of 1.000 NET per hour, which comes down to 10.000 transactions at a NET price of 0.1$:
 
-IMAGE
-
-
+![](.gitbook/assets/image%20%281%29.png)
 
 For the initial testing phase, everyone can become a Trust Node, it is however possible that in the future the Nordic Energy foundation will limit the amount of users that can become Trust Nodes.
 
