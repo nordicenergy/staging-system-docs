@@ -2,9 +2,8 @@
 description: A reward system to stimulate stake pools and community adoption
 ---
 
-# Introduction
 
-**About**
+**Introduction**
 
 As we are slowly but surely approaching Nordic Energy’s PowerChain Mainnet launch, we felt the need to clarify once and for all the dynamics of staking Nordic Energy tokens as support to our consensus layer.
 
