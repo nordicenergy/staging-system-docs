@@ -27,3 +27,7 @@ For the initial testing phase, everyone can become a Trust Node, it is however p
 
 **Please note:** NET tokens can be staked only once, meaning that if you stake for sidechain x you cannot stake for sidechain y — however, you can pull out your token from sidechain x and join the sidechain y network or split them on various sidechains. To attract more stakers, sidechain creators can also offer a rent, a monthly payment of NET tokens for the nodes.
 
+![](.gitbook/assets/image%20%282%29.png)
+
+
+
